@@ -7,4 +7,4 @@ var datetime = moment().startOf("day").fromNow();
 console.log(datetime);
 var rightnow = moment().format("MMMM Do YYYY, h:mm:ss a");
 console.log(rightnow);
-console.log(sqrt(4));
+console.log(math.sqrt(4));
