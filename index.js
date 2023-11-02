@@ -9,6 +9,6 @@ var rightnow = moment().format("MMMM Do YYYY, h:mm:ss a");
 console.log(rightnow);
 console.log(math.sqrt(4));
 
-var name = "Bob",
+var name = "Jen",
   time = "today";
 console.log(`Hello ${name}, how are you ${time}?`);
